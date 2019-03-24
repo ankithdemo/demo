@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: Create a mail
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 61.723 s - in Scenario: Create a mail
